@@ -1,6 +1,6 @@
 # ExoSkeleton
 Exo-Skeleton project
 
-system.out.println("Ex0--Skeleton"); 
+system.out.println("Ex0Skeleton"); 
 
 
